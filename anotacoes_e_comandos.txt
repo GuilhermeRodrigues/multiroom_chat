@@ -1,7 +1,9 @@
 ANOTAÇÕES IMPORTANTES
 ======================
 
-
+Socket permite que haja uma comunicação simultânea entre cliente e servidor, o cliente não
+precisa enviar uma requisição e ficar esperando uma resposta e o servidor também pode enviar
+requisições para o cliente.
 
 
 1) CRIAR DIRETÓRIO
@@ -38,3 +40,7 @@ Instalar o Body Parser -> npm install body-parser --save
 =====================================================
 Instalar o Express Validator -> npm install express-validator --save
 
+
+SOCKET.IO
+=====================================================
+Instalar o Socket.IO -> npm install socket.io --save
